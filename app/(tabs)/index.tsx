@@ -9,7 +9,7 @@ import { ThemedView } from "@/components/ThemedView";
 export default function HomeScreen() {
   return (
     <ParallaxScrollView
-      headerBackgroundColor={{ light: "#87CEFB", dark: "#111154" }}
+      headerBackgroundColor={{ light: "#7a9f79", dark: "#315e26" }}
       headerImage={
         <Image
           source={require("@/assets/images/partial-react-logo.png")}
