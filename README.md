@@ -94,3 +94,11 @@ Understand the project structure in Expo.
 5. Make sure there are instructions on how to set up your project after downloading.
 6. Then submit your Github link to this assignment.
 7. Add a screenshot of your app running in Expo Go.
+
+# How to Run the App
+
+1. Install Node.js from the official website.
+2. Download or clone this project and open the folder.
+3. Install the project dependencies.
+4. Start the Expo development server.
+5. Open the Expo Go app on your phone and scan the QR code to run the app.
